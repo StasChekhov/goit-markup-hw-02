@@ -1,0 +1,12 @@
+/* header for all pages*/
+.header-links .link:hover {
+  color: #2196f3;
+}
+/* Index.html */
+
+/* Portfolio */
+/* buttons */
+.list-section button:hover {
+  background-color: #2196f3;
+  color: white;
+}
