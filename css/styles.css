@@ -3,6 +3,9 @@ body {
   color: #212121;
 }
 /* header for all pages*/
+.header-logo {
+  color: white;
+}
 .header-links {
   list-style: none;
   font-weight: 500;
