@@ -4,7 +4,7 @@ body {
 }
 /* header for all pages*/
 .header-logo {
-  color: white;
+  color: #212121;
 }
 .header-links {
   list-style: none;
@@ -37,10 +37,9 @@ body {
   font-size: 26px;
   line-height: 31px;
   text-decoration: none;
-}
-.logo-color {
   color: #2196f3;
 }
+
 /* Footer for all pages */
 .footer {
   background: #2f303a;
