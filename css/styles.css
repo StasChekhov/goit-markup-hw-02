@@ -69,6 +69,8 @@ body {
   list-style-type: none;
 }
 .footer-logo {
+  font-family: Raleway;
+  font-style: normal;
   font-size: 26px;
   line-height: 31px;
   font-weight: bold;
